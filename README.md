@@ -1,1 +1,1 @@
-# TUBES-strategi-algoritma
+# TUBES Strategi Algoritma
