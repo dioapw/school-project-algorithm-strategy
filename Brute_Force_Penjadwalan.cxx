@@ -80,7 +80,7 @@ int main()
 		}
 		file.tutup();
 	}
-      cout<<"Permutasi urutan waktu:\n"; 
+      //cout<<"Permutasi urutan waktu:\n"; 
       brute_force(totalWaktu);
 	
       auto berakhir = high_resolution_clock::now();
