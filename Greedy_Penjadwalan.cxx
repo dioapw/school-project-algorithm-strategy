@@ -31,9 +31,9 @@ void greedy(vi totalWaktu){
 
 int main()
 { 
-	auto mulai = high_resolution_clock::now();
+    auto mulai = high_resolution_clock::now();
 	
-	vi totalWaktu; ifstream file("input.txt");
+    vi totalWaktu; ifstream file("input.txt");
     if(file.buka()) {
 		s baris;
 		loopFile(file, baris)
