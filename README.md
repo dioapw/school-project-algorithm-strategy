@@ -27,7 +27,7 @@ It is the most popular method for solving optimization problems.
 # Problem Case
 A server (can be a processor, pump, cashier at a bank, etc.) has n clients that must be served. The service time for each customer is predetermined, that is, customer “i” takes time “ti”, If the main goal is to minimize the total time in the system.
 ```
-![Alt text](https://user-images.githubusercontent.com/55073908/140615167-1a484fc3-f2ba-46b6-b06d-c4de04c53de4.png)
+![Alt text](https://github.com/dioapw/school-project-algorithm-strategy/blob/main/formula.png)
 ```
 Since the number of subscribers is constant, minimizing the time in the system is equivalent to minimizing the average time.
 
